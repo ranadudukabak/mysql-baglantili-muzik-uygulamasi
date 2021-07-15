@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="GeriButonu" min="-2" pref="49" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel3" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" pref="638" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="AdminAdi" pref="120" max="32767" attributes="0"/>
+                          <Component id="jLabel1" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jScrollPane6" max="32767" attributes="0"/>
+                          <Component id="jScrollPane5" max="32767" attributes="0"/>
+                          <Component id="jScrollPane4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel5" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jScrollPane7" max="32767" attributes="0"/>
+                          <Component id="jScrollPane3" max="32767" attributes="0"/>
+                          <Component id="jLabel6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel7" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                  <Component id="GeriButonu" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="AdminAdi" min="-2" pref="23" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Component id="jScrollPane4" min="-2" pref="115" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jScrollPane5" min="-2" pref="115" max="-2" attributes="0"/>
+              <EmptySpace pref="40" max="32767" attributes="0"/>
+              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jScrollPane6" min="-2" pref="115" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="179" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jScrollPane3" min="-2" pref="115" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
+              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jScrollPane7" min="-2" pref="115" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="260" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="DinlenmeSayisiSarkiTablosu">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="8" rowCount="0">
+                <Column editable="false" title="&#x15e;ark&#x131; ID" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Ad" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Tarih" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Sanat&#xe7;&#x131;" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Alb&#xfc;m" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; T&#xfc;r" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; S&#xfc;re" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Dinlenme Say&#x131;s&#x131;" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="DinlenmeSayisiSarkiTablosuMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="KlasikDinlenmeSayisiSarkiTablosu">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="8" rowCount="0">
+                <Column editable="false" title="&#x15e;ark&#x131; ID" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Ad" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Tarih" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Sanat&#xe7;&#x131;" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Alb&#xfc;m" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; T&#xfc;r" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; S&#xfc;re" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Dinlenme Say&#x131;s&#x131;" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="KlasikDinlenmeSayisiSarkiTablosuMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="JazzDinlenmeSayisiSarkiTablosu">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="8" rowCount="0">
+                <Column editable="false" title="&#x15e;ark&#x131; ID" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Ad" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Tarih" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Sanat&#xe7;&#x131;" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Alb&#xfc;m" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; T&#xfc;r" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; S&#xfc;re" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Dinlenme Say&#x131;s&#x131;" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="JazzDinlenmeSayisiSarkiTablosuMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="PopDinlenmeSayisiSarkiTablosu">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="8" rowCount="0">
+                <Column editable="false" title="&#x15e;ark&#x131; ID" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Ad" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Tarih" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Sanat&#xe7;&#x131;" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Alb&#xfc;m" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; T&#xfc;r" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; S&#xfc;re" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Dinlenme Say&#x131;s&#x131;" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="PopDinlenmeSayisiSarkiTablosuMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="UlkeDinlenmeSayisiSarkiTablosu">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="8" rowCount="0">
+                <Column editable="false" title="&#x15e;ark&#x131; ID" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Ad" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Tarih" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Sanat&#xe7;&#x131;" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Alb&#xfc;m" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; T&#xfc;r" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; S&#xfc;re" type="java.lang.Object"/>
+                <Column editable="false" title="&#x15e;ark&#x131; Dinlenme Say&#x131;s&#x131;" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="UlkeDinlenmeSayisiSarkiTablosuMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="GeriButonu">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;-"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="GeriButonuActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Admin:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="AdminAdi">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="**********************************KLAS&#x130;K &#x15e;ARKILAR TOP 10 L&#x130;STES&#x130;********************************"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="**********************************JAZZ &#x15e;ARKILAR TOP 10 L&#x130;STES&#x130;**********************************"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="**********************************POP &#x15e;ARKILAR TOP 10 L&#x130;STES&#x130;***********************************"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="***************************GENEL D&#x130;NLENME SAYISINA G&#xd6;RE TOP 10 L&#x130;STES&#x130;***************************"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="************************************&#xdc;LKELERE G&#xd6;RE TOP 10 L&#x130;STES&#x130;************************************"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
